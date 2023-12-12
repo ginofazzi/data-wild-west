@@ -1,4 +1,4 @@
-# Data Wild West - Project Structure
+# Navigating the Gym Landscape: Analyzing Customer Reviews in Danish Facilities - Project Structure
 
 ## Introduction
 This repository hosts all the necessary resources for the ``"Navigating the Gym Landscape: Analyzing Customer Reviews in Danish Facilities"`` project by the Data Wild West group.
