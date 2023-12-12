@@ -1,6 +1,7 @@
 # Data Wild West - Project Structure
 
-This repository contains all the necessary code and resources to reproduce the Data Wild West group project. 
+This repository contains all the necessary code and resources to reproduce the **"Navigating the Gym Landscape: Analyzing
+Customer Reviews in Danish Facilities"** project from the Data Wild West group. 
 
 Below is an overview of the key components and their organization:
 
