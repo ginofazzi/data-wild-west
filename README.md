@@ -14,7 +14,8 @@ Located in the **"code"** folder:
 ### Data
 Located in the **"data"** folder:
 
-    - This directory houses both the raw and processed data utilized in the project.
+    - This directory contains both the raw and processed data utilized in the project.
+    **NOTE: The final processed dataset is located at /data/processed/final_reviews.csv** 
 
 ### Additional Folders
     - "images": Contains images used in the report.
