@@ -11,6 +11,7 @@ This repository hosts all the necessary resources for the ``"Navigating the Gym 
   - [Additional Folders](#additional-folders)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributors](#contributors)
 
 ## Project Structure
 
