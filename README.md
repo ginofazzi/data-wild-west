@@ -40,3 +40,11 @@ Ensure Python 3.10.11 is installed and then run:
 To run the notebook and recreate results:
 1. Navigate to the project directory.
 2. Run `Project_Notebook.ipynb` using the "Run All" feature in VS Code or another IDE.
+
+## Contributors
+This project was created by:
+- Gino F. Fazzi
+- Veron Hoxha
+- Chrisanna K. Cornish
+- Christian M. Hansen
+- Constantin-Bogdan Craciun
