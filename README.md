@@ -17,8 +17,8 @@ This repository hosts all the necessary resources for the ``"Navigating the Gym 
 
 ### Code
 Located in the **"code"** folder:
-- `Project_Notebook.ipynb`: Main Jupyter Notebook where all the analyses are performed.
-- `libraries/utils.py`:  This file, located in the libraries subfolder, contains all the functions used in `Project_Notebook.ipynb`.
+- `project_notebook.ipynb`: Main Jupyter Notebook where all the analyses are performed.
+- `libraries/utils.py`:  This file, located in the libraries subfolder, contains all the functions used in `project_notebook.ipynb`.
 
 ### Data
 Located in the **"data"** folder:
@@ -39,7 +39,7 @@ Ensure Python 3.10.11 is installed and then run:
 ## Usage
 To run the notebook and recreate results:
 1. Navigate to the project directory.
-2. Run `Project_Notebook.ipynb` using the "Run All" feature in VS Code or another IDE.
+2. Run `project_notebook.ipynb` using the "Run All" feature in VS Code or another IDE.
 
 ## Contributors
 This project was created by:
