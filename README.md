@@ -1,7 +1,7 @@
 # Data Wild West - Project Structure
 
-This repository contains all the necessary code and resources to reproduce the **"Navigating the Gym Landscape: Analyzing
-Customer Reviews in Danish Facilities"** project from the Data Wild West group. 
+This repository contains all the necessary code and resources to reproduce the `"Navigating the Gym Landscape: Analyzing
+Customer Reviews in Danish Facilities"` project from the Data Wild West group. 
 
 Below is an overview of the key components and their organization:
 
@@ -16,13 +16,15 @@ Located in the **"code"** folder:
 Located in the **"data"** folder:
 
     - This directory contains both the raw and processed data utilized in the project.
-    **NOTE: The final processed dataset is located at /data/processed/final_reviews.csv** 
+
+NOTE: The final processed dataset is located at /data/processed/final_reviews.csv.
 
 ### Additional Folders
     - "images": Contains images used in the report.
     - "translations": This folder includes any translation files related to the project.
     - "visualizations": Here, you will find visual representations and output generated during the project.
     - "annotations": Contains annotations results, samples and the guideline.
+    - "report": The report of the project.
 
 Each folder is structured to provide a clear and organized workflow, ensuring easy navigation and replication of the project's results.
 
