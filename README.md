@@ -28,7 +28,6 @@ Located in the **"data"** folder:
 ### Additional Folders
 - `images`: Images used in reports.
 - `translations`: Translation files related to the project.
-- `visualizations`: Visual representations generated during the project.
 - `annotations`: Annotations results, samples and the guideline.
 - `report`: The project report.
 
